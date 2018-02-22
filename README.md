@@ -12,8 +12,8 @@
  https://dotblogs.com.tw/h091237557/2014/05/26/145247  
   
  tryParse 和 Parse  
- http://charleslin74.pixnet.net/blog/post/454299038-%5Bc%23%5D-parse%E5%92%8Ctryparse%E7%9A%84%E5%B7%AE%E7%95%B0%E5%92%8C%E7%94%A8%E6%B3%95  
-  
+ http://charleslin74.pixnet.net/blog/post/454299038-%5Bc%23%5D-parse%E5%92%8Ctryparse%E7%9A%84%E5%B7%AE%E7%95%B0%E5%92%8C%E7%94%A8%E6%B3%95   
+ 
  get & set 用法    
  變數在不同頁面修改及更新  
  get如果有初始值就直接回傳，若沒有就要用set取得值，取得value(value隱藏參數，不須宣告)   
