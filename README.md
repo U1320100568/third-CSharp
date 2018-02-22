@@ -1,4 +1,4 @@
-，# third-CSharp   
+，# third-CSharp  
  實質型別(value)及參考型別(reference)   
  實質型別:  
  即變數的記憶體(Stack)空間裡存放的為『內容(值)』。   
