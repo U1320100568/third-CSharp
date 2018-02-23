@@ -15,7 +15,7 @@
  http://charleslin74.pixnet.net/blog/post/454299038-%5Bc%23%5D-parse%E5%92%8Ctryparse%E7%9A%84%E5%B7%AE%E7%95%B0%E5%92%8C%E7%94%A8%E6%B3%95   
  
  get & set 用法    
- 變數在不同頁面修改及更新  
+ 資料保護，使變數可以在不同頁面修改及更新，也可以設定權限  
  get如果有初始值就直接回傳，若沒有就要用set取得值，取得value(value隱藏參數，不須宣告)   
  http://icy810406.pixnet.net/blog/post/124570904-c%23--get-set-%E7%94%A8%E6%B3%95  
  http://adon988.logdown.com/posts/1184067  
