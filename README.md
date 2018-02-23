@@ -18,4 +18,7 @@
  變數在不同頁面修改及更新  
  get如果有初始值就直接回傳，若沒有就要用set取得值，取得value(value隱藏參數，不須宣告)   
  http://icy810406.pixnet.net/blog/post/124570904-c%23--get-set-%E7%94%A8%E6%B3%95  
+ http://adon988.logdown.com/posts/1184067  
+ http://alansong.pixnet.net/blog/post/55999534-c%23-get-set-%E5%8F%8A%E8%87%AA%E5%8B%95%E5%B1%AC%E6%80%A7  
+ 
  
